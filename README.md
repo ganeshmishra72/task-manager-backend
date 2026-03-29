@@ -11,6 +11,10 @@ This backend powers a full-stack application where users can securely manage tas
 
 🔗 Base URL: https://your-backend.onrender.com/api/v1
 
+🌐 Frontedn GetHub Repo
+
+🔗 Base URL: https://github.com/ganeshmishra72/task-manager-frontend.git
+
 ---
 
 🛠 Tech Stack
@@ -60,13 +64,21 @@ This backend powers a full-stack application where users can securely manage tas
 📁 Project Structure
 
 src/main/java/com/project
+
  ├── config        # Security & JWT config
+ 
  ├── controller    # REST Controllers
+ 
  ├── service       # Business logic
+ 
  ├── repository    # JPA repositories
+ 
  ├── entity        # Database entities
+ 
  ├── dto           # Request/Response DTOs
+ 
  ├── exception     # Global exception handling
+ 
  └── util          # Utility classes
 
 ---
