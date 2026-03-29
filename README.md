@@ -11,6 +11,9 @@ This backend powers a full-stack application where users can securely manage tas
 
 🔗 Backend Base URL(Render): https://backend-tms-z5n6.onrender.com
 
+🔗 Live  URL: https://rdtms.vercel.app
+
+
 
 🌐 Frontend GetHub Repo
 
