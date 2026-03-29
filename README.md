@@ -9,11 +9,12 @@ This backend powers a full-stack application where users can securely manage tas
 
 🌐 Live API
 
-🔗 Base URL: https://your-backend.onrender.com/api/v1
+🔗 Backend Base URL(Render): https://backend-tms-z5n6.onrender.com
 
-🌐 Frontedn GetHub Repo
 
-🔗 Base URL: https://github.com/ganeshmishra72/task-manager-frontend.git
+🌐 Frontend GetHub Repo
+
+🔗  URL: https://github.com/ganeshmishra72/task-manager-frontend.git
 
 ---
 
